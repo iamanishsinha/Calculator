@@ -42,7 +42,7 @@ This calculator features a clean white-grey-black UI, smooth performance, respon
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/anishsinha-dev/Calculator.git]
+git clone https://github.com/anishsinha-dev/Calculator.git
 ```
 
 ---
@@ -50,7 +50,7 @@ git clone [https://github.com/anishsinha-dev/Calculator.git]
 ### Navigate to Project Folder
 
 ```bash
-cd (https://github.com/anishsinha-dev/Calculator)
+cd https://github.com/anishsinha-dev/Calculator
 ```
 
 ---
