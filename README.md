@@ -1,6 +1,6 @@
 # Calculator
 
-A modern and minimal calculator application built using **Python** and **CustomTkinter**.
+A modern and minimal calculator application built using **Python** and **CustomTkinter** by Anish Sinha.
 
 This calculator features a clean white-grey-black UI, smooth performance, responsive resizing, keyboard & numpad support, and essential mathematical operations.
 
@@ -129,3 +129,4 @@ The UI is inspired by modern minimalist desktop calculators with:
 ## License
 
 This project is open-source and available under the MIT License.
+For Learning Purpose Only.
