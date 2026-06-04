@@ -128,5 +128,4 @@ The UI is inspired by modern minimalist desktop calculators with:
 
 ## License
 
-This project is open-source and available under the MIT License.
 For Learning Purpose Only.
