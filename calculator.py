@@ -371,6 +371,6 @@ def key_press(event):
 
 app.bind("<Key>", key_press)
 
-# START 
+# START "Run to Start the Calculator"
 
 app.mainloop()
