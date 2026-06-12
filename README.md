@@ -129,3 +129,4 @@ The UI is inspired by modern minimalist desktop calculators with:
 ## License
 
 For Learning Purpose Only.
+Copyright is only with original owner i.e.- anishsinha-dev
