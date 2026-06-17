@@ -8,8 +8,8 @@ ctk.set_default_color_theme("blue")
 
 app = ctk.CTk()
 
-WIDTH = 420
-HEIGHT = 630
+WIDTH = 421
+HEIGHT = 631
 
 app.geometry(f"{WIDTH}x{HEIGHT}")
 app.minsize(WIDTH, HEIGHT)
@@ -77,6 +77,7 @@ display = ctk.CTkEntry(
 display.pack(fill="both", expand=True)
 
 #FUNCTIONS
+
 def update_display(value):
     display_var.set(value)
         
