@@ -123,10 +123,10 @@ The UI is inspired by modern minimalist desktop calculators with:
 ### Anish Sinha
 
 - GitHub: https://github.com/anishsinha-dev
-- Linkdin: https://www.linkedin.com/in/anishsinhaprofile/
+
 ---
 
 ## License
 
 For Learning Purpose Only.
-Copyright is only with original owner (i.e.- anishsinha-dev)
+Copyright is only with original owner 
